@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBot", "TwitterBot\TwitterBot.csproj", "{DD63644E-91FE-4713-B6F5-BB663E152500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWillTweetBotSoon", "IWillTweetBotSoon\IWillTweetBotSoon.csproj", "{2E82642D-B2DB-4952-9C92-B4F1975052EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterApi", "TwitterApi\TwitterApi.csproj", "{23A76678-97A8-47C8-B1D4-2297BAB1A021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD63644E-91FE-4713-B6F5-BB663E152500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD63644E-91FE-4713-B6F5-BB663E152500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD63644E-91FE-4713-B6F5-BB663E152500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD63644E-91FE-4713-B6F5-BB663E152500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E82642D-B2DB-4952-9C92-B4F1975052EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E82642D-B2DB-4952-9C92-B4F1975052EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E82642D-B2DB-4952-9C92-B4F1975052EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E82642D-B2DB-4952-9C92-B4F1975052EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A76678-97A8-47C8-B1D4-2297BAB1A021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A76678-97A8-47C8-B1D4-2297BAB1A021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A76678-97A8-47C8-B1D4-2297BAB1A021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A76678-97A8-47C8-B1D4-2297BAB1A021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.IndentBlocksInsideExpressions = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = DoNotCare
+		$2.ArrayInitializerWrapping = DoNotChange
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = NewLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
